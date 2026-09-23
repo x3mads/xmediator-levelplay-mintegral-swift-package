@@ -10,7 +10,7 @@ let package = Package(
         .library(name: "LevelPlayMintegralAdapter", targets: ["LevelPlayMintegralAdapterWrapper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/ironsource-mobile/LevelPlay-Mintegral-Adapter-Swift-Package.git", exact: "5.18.1"),
+        .package(url: "https://github.com/ironsource-mobile/LevelPlay-Mintegral-Adapter-Swift-Package.git", exact: "5.19.0"),
     ],
     targets: [
         .target(

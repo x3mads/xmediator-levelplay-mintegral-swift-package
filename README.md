@@ -18,7 +18,7 @@ coexist.
 Add this repository as a package dependency and select the
 `LevelPlayMintegralAdapter` product instead of LevelPlay's `MintegralAdapter`.
 Versions match the LevelPlay adapter versions one-to-one: version
-`5.18.1` of this package uses LevelPlay adapter `5.18.1`.
+`5.19.0` of this package uses LevelPlay adapter `5.19.0`.
 
 ## License
 
