@@ -8,8 +8,8 @@ use the LevelPlay Mintegral adapter together with Google's
 ## Usage
 
 Add this repository (`https://github.com/x3mads/xmediator-levelplay-mintegral-swift-package.git`) and select the `LevelPlayMintegralAdapter` product.
-Version `5.21.0` of this package corresponds to LevelPlay adapter
-`5.21.0` (<https://github.com/ironsource-mobile/LevelPlay-Mintegral-Adapter-Swift-Package.git>). Do not also add the official LevelPlay
+Version `5.22.0` of this package corresponds to LevelPlay adapter
+`5.22.0` (<https://github.com/ironsource-mobile/LevelPlay-Mintegral-Adapter-Swift-Package.git>). Do not also add the official LevelPlay
 Mintegral adapter package: both contain the same adapter binary.
 
 ## Why this package exists, and why it is built this way
